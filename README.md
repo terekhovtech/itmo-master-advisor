@@ -26,6 +26,6 @@
 
 ## Структура
 - `scraper/` — простой парсер двух страниц и сохранение JSON в `data/`
-- `agent/` — реализация поиска через OpenAI embeddings и базовый QA
+- `agent/` — реализация поиска через embeddings и базовый QA
 - `bot/` — aiogram-бот, интеграция с agent/scraper
 - `data/` — место для сохранённых JSON
