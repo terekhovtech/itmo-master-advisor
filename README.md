@@ -1,6 +1,6 @@
-# ITMO Master Advisor — MVP Repository
+# ITMO Master Advisor
 
-Это минимальный рабочий пример проекта: парсер учебных планов ИТМО, Telegram-бот и агент с подключением OpenAI Embeddings.
+Это минимальный рабочий пример проекта: парсер учебных планов ИТМО, Telegram-бот и агент с подключением к OPENOPENROUTER API.
 Архив содержит MVP — рабочий каркас. Требует заполнения `.env` c `TELEGRAM_TOKEN` и `OPENOPENROUTER_APIAI_API_KEY`.
 
 ## Быстрый старт (локально)
