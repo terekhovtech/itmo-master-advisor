@@ -12,7 +12,7 @@
    .venv\Scripts\activate      # Windows
    pip install -r requirements.txt
    ```
-3. Скопируйте `.env.example` -> `.env` и заполните переменные:
+3. Создайте файл в корневой директории `.env` и заполните переменные:
    - TELEGRAM_TOKEN — токен бота Telegram
    - OPENROUTER_API — ключ OPENROUTER API
 4. Запустите бота:
